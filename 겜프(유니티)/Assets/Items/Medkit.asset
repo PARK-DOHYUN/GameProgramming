@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 231d4a7ef6a96da4a83c2062462e45f2, type: 3}
+  m_Name: Medkit
+  m_EditorClassIdentifier: 
+  itemName: Medkit
+  description: Restores 50 HP
+  icon: {fileID: 21300000, guid: bd6297cd0af3efc40bdd91fe48004388, type: 3}
+  itemType: 0
+  isStackable: 1
+  maxStackSize: 10
+  healAmount: 50
+  ammoAmount: 0
+  itemPrefab: {fileID: 0}
